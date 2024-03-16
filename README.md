@@ -28,7 +28,7 @@ user authentication, role-based access control, and integration with external se
 ### Clone the repository:
 
 ### Copy code
-[git clone https://github.com/your-username/book-management-app.git](url)
+[https://github.com/saswatt23/graphql_bookmgmnt/tree/main](url)
 
 # Install dependencies:
 ### Copy code
