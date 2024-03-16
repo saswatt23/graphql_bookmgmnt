@@ -1,4 +1,4 @@
-# Book Management Application
+# Book Management Application(BACKEND)
 + This is a book management application designed to help users organize and manage their book collections. 
 It provides features such as adding, updating, and deleting books,
 user authentication, role-based access control, and integration with external services like cloud storage and email.
@@ -9,7 +9,21 @@ user authentication, role-based access control, and integration with external se
 + Cloud Storage Integration: Books and other files can be uploaded to and stored in a cloud storage service (e.g., AWS S3, Cloudinary).
 + Email Notifications: Users receive email notifications for actions such as password reset requests.
 + GraphQL API: The application exposes a GraphQL API for interacting with its functionalities.
-
+# Technologies Used:
++ Node.js: JavaScript runtime environment
++ Express.js: Web application framework for Node.js
++ MongoDB: NoSQL database for storing book and user data
++ GraphQL: Query language for APIs used to build the application's API layer
++ Apollo Server Express: GraphQL server integration with Express.js
++ JWT (JSON Web Tokens): Used for user authentication and authorization
++ Cloudinary: Cloud-based image and video management service for storing book cover images
++ AWS SDK: Software development kit for accessing AWS services such as S3 for cloud storage
++ Nodemailer: Module for sending emails from Node.js applications
++ bcryptjs: Library for hashing passwords before storing in the database
++ dotenv: Module for loading environment variables from a .env file into process.env
++ Mongoose: MongoDB object modeling tool for Node.js
++ Multer: Middleware for handling multipart/form-data, primarily used for file uploads
++ Cloudinary: Cloud-based image and video management service for storing book cover images
 # Installation
 ### Clone the repository:
 
