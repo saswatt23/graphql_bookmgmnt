@@ -1,14 +1,14 @@
-#**Book Management Application**
-##This is a book management application designed to help users organize and manage their book collections. 
+**#Book Management Application**
++This is a book management application designed to help users organize and manage their book collections. 
 It provides features such as adding, updating, and deleting books,
 user authentication, role-based access control, and integration with external services like cloud storage and email.
-#**Features**
-##User Authentication: Users can sign up, log in, and reset their passwords.
-##Role-based Access Control: Different user roles (e.g., admin, manager, user) have different levels of access to application functionalities.
-##Book Management: Users can add new books, update existing ones, and delete books from their collections.
-##Cloud Storage Integration: Books and other files can be uploaded to and stored in a cloud storage service (e.g., AWS S3, Cloudinary).
-##Email Notifications: Users receive email notifications for actions such as password reset requests.
-##GraphQL API: The application exposes a GraphQL API for interacting with its functionalities.
+**#Features**
++User Authentication: Users can sign up, log in, and reset their passwords.
++Role-based Access Control: Different user roles (e.g., admin, manager, user) have different levels of access to application functionalities.
++Book Management: Users can add new books, update existing ones, and delete books from their collections.
++Cloud Storage Integration: Books and other files can be uploaded to and stored in a cloud storage service (e.g., AWS S3, Cloudinary).
++Email Notifications: Users receive email notifications for actions such as password reset requests.
++GraphQL API: The application exposes a GraphQL API for interacting with its functionalities.
 
 **#Installation**
 ###Clone the repository:
