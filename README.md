@@ -1,5 +1,5 @@
 # Book Management Application
-+This is a book management application designed to help users organize and manage their book collections. 
++ This is a book management application designed to help users organize and manage their book collections. 
 It provides features such as adding, updating, and deleting books,
 user authentication, role-based access control, and integration with external services like cloud storage and email.
 # Features
@@ -10,13 +10,13 @@ user authentication, role-based access control, and integration with external se
 + Email Notifications: Users receive email notifications for actions such as password reset requests.
 + GraphQL API: The application exposes a GraphQL API for interacting with its functionalities.
 
-**#Installation**
-###Clone the repository:
+# Installation
+### Clone the repository:
 
-**#Copy code**
+### Copy code
 [git clone https://github.com/your-username/book-management-app.git](url)
 
-**#Install dependencies**:
+# Install dependencies:
 ### Copy code
 
 ![Capture](https://github.com/saswatt23/graphql_bookmgmnt/assets/133504202/01e975d5-3fd5-44f1-aa64-2a3af434a2bd)
@@ -27,9 +27,9 @@ user authentication, role-based access control, and integration with external se
 
 ## Copy code
 ![Capture1](https://github.com/saswatt23/graphql_bookmgmnt/assets/133504202/245277e5-d18e-41d5-bc12-232e8850cc46)
-
+### Replace <username>, <password>, <cloudinary_cloud_name>, <cloudinary_app_key>, <cloudinary_app_secret>, <smtp_user>, <smtp_password>, <aws_access_key_id>, and <aws_secret_access_key> with your actual values.
 ## Usage
-+Start the server:
++ Start the server:
 ## Copy code
 `npm start`
 Access the application at [http://localhost:4000.](url)
