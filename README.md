@@ -9,6 +9,11 @@ user authentication, role-based access control, and integration with external se
 + Cloud Storage Integration: Books and other files can be uploaded to and stored in a cloud storage service (e.g., AWS S3, Cloudinary).
 + Email Notifications: Users receive email notifications for actions such as password reset requests.
 + GraphQL API: The application exposes a GraphQL API for interacting with its functionalities.
+# link for testing end points in postman
+[https://sasgraph.netlify.app/.netlify/functions/api/books](url)  - add a new book
+[https://sasgraph.netlify.app/.netlify/functions/api/books/:id  ](url)   - update/delete an existing book
+
+
 # Technologies Used:
 + Node.js: JavaScript runtime environment
 + Express.js: Web application framework for Node.js
